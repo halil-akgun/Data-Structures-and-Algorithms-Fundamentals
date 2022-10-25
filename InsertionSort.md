@@ -19,7 +19,7 @@
                 swap A[j] and A[j-1]
                     j = j - 1
 ```
-- ### Write the first 4 steps of the array [7,3,5,8,2,9,4,15,6] according to Insertion Sort.
+- ### Write the first 4 steps of the array [7,3,5,8,2,9,4,15,6] according to Insertion Sort
 1. [**3,7**,5,8,2,9,4,15,6]
 2. [**3,5,7**,8,2,9,4,15,6]
 3. [**3,5,7,8**,2,9,4,15,6]
